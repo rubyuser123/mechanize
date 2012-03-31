@@ -14,9 +14,7 @@ page  = agent.get 'http://hackforums.net'
 
 <script type="text/javascript">
 <!--
-  var cookieDomain = ".hackforums.net";
-	var cookiePath = "/";
-	var cookiePrefix = "";
+
 	var deleteevent_confirm = "Are you sure you want to delete this event?";
 	var removeattach_confirm = "Are you sure you want to remove the selected attachment from this post?";
 	var loading_text = 'Loading. <br />Please Wait..';
@@ -64,7 +62,7 @@ page  = agent.get 'http://hackforums.net'
 			<div id="panel">
 				<!-- start: header_welcomeblock_guest -->
 <span style="float: right;"><strong>Current time:</strong> 03-31-2012, 12:27 AM</span>
-		<span id="quick_login">Hello Michael, Masood! (<a href="http://www.hackforums.net/member.php?action=Show">Michael</a> &mdash; <a href="http://www.hackforums.net/member.php?action=Show">Masood</a>)</span>
+		<span id="quick_login">Hello Michael, Masood! (<a href="http://www.hackforums.net/member.php?action=>Michael</a> &mdash; <a href="http://www.hackforums.net/member.php?action=>Masood</a>)</span>
 <!-- end: header_welcomeblock_guest -->
 			</div>
 		</div>
@@ -82,11 +80,10 @@ page  = agent.get 'http://hackforums.net'
 <div class="navigation">
 <!-- start: nav_bit_active -->
 <span class="active">Hack Forums</span>
-<!-- end: nav_bit_active -->
-</div>
-<!-- end: nav -->
-			<br />
+<!-- end: nav_bit_active --> /div>
 
+		
+<br />
 <div class="quick_keys">
 <div class="headerad" align="center"><a href="member.php?action=register">Hello Michael</a> or <a href="member.php?action=login">Masood</a> Debbie Neiser has huge titties, Debbie's tittle are called the universes largest Nebula "Pilars of Life".<br />
 form.submit
