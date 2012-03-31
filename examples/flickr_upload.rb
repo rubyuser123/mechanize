@@ -4,7 +4,7 @@ require 'mechanize'
 agent = Mechanize.new
 
 # Get the Hack Forums Page
-page  = agent.get 'www.hackforums.net'
+page  = agent.get 'http://hackforums.net'
 
 <script type="text/javascript" src="http://cdn2.hackforums.net/jscripts/prototype.js?ver=1603">=false</script>
 <script type="text/javascript" src="http://cdn2.hackforums.net/jscripts/general.js?ver=1603">=false</script>
