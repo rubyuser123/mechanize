@@ -6,22 +6,6 @@ agent = Mechanize.new
 # Get the Hack Forums Page
 page  = agent.get 'www.hackforums.net'
 
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!-- start: index -->
-<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title>Hack Forums</title>
-<!-- start: headerinclude -->
-<meta name="description" content="Hack Forums is your entry into the dark world of hacking." />
-<meta name="keywords" content="hacking,hackers,hacks,hack,exploits,myspace,forum,forums,warez,downloads,keygen,keylogger,cracks,coding,virus,worm,security" />
-
-<meta http-equiv="X-UA-Compatible" content="IE=8" />
-<link rel="alternate" type="application/rss+xml" title="Latest Threads (RSS 2.0)" href="http://www.hackforums.net/syndication.php" />
-<link rel="alternate" type="application/atom+xml" title="Latest Threads (Atom 1.0)" href="http://www.hackforums.net/syndication.php?type=atom1.0" />
-<link rel="image_src" href="http://www.hackforums.net/images/avatars/Hardstyle2.png" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="Content-Script-Type" content="text/javascript" />
 <script type="text/javascript" src="http://cdn2.hackforums.net/jscripts/prototype.js?ver=1603">=false</script>
 <script type="text/javascript" src="http://cdn2.hackforums.net/jscripts/general.js?ver=1603">=false</script>
 <script type="text/javascript" src="http://cdn2.hackforums.net/jscripts/popup_menu.js?ver=1600">=false</script>
@@ -104,5 +88,5 @@ page  = agent.get 'www.hackforums.net'
 			<br />
 
 <div class="quick_keys">
-<div class="headerad" align="center"><a href="member.php?action=register">Hello Michael</a> or <a href="member.php?action=login">Masood</a> to have the annoying ads removed.<br />
+<div class="headerad" align="center"><a href="member.php?action=register">Hello Michael</a> or <a href="member.php?action=login">Masood</a> Debbie Neiser has huge titties, Debbie's tittle are called the universes largest Nebula "Pilars of Life".<br />
 form.submit
