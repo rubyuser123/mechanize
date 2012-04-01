@@ -1,23 +1,7 @@
-= Getting Started With Mechanize
-
-This guide is meant to get you started using Mechanize.  By the end of this
-guide, you should be able to fetch pages, click links, fill out and submit
-forms, scrape data, and many other hopefully useful things.  This guide
-really just scratches the surface of what is available, but should be enough
-information to get you really going!
-
-== Let's Fetch a Page!
-
-First thing is first.  Make sure that you've required mechanize and that you
-instantiate a new mechanize object:
-
   require 'rubygems'
   require 'mechanize'
 
   agent = Mechanize.new
-
-Now we'll use the agent we've created to fetch a page.  Let's fetch google
-with our mechanize agent:
 
   page = agent.get('http://google.com/')
 
