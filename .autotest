@@ -1,6 +1,10 @@
-require 'autotest/restart'
+  require 'rubygems'
+  require 'mechanize'
 
-Autotest.add_hook :initialize do |at|
-  at.testlib = 'minitest/autorun'
-end
+  agent = mechanize.new
+
+  page = agent.get('htttp://google.com')
+
+
+
 
